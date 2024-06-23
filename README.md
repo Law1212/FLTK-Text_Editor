@@ -1,6 +1,7 @@
 # Basic Text Editor in C++ with FLTK
 
 Welcome to the Basic Text Editor project! This project is a simple implementation of a text editor using C++ and the FLTK (Fast Light Toolkit) library. It serves as a learning project to understand the fundamentals of how code editors work and GUI programming in C++ with FLTK.
+
 ![Screenshot 2024-06-23 153439](https://github.com/Law1212/FLTK-Text_Editor/assets/62355783/5d481af0-ae98-49d2-9f96-8304c6d4e93d)
 
 ## Table of Contents
