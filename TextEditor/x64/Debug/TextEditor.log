@@ -1,0 +1,11 @@
+﻿  TextEditor.cpp
+C:\Users\gerib\source\repos\TextEditor\TextEditor.cpp(133,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gerib\source\repos\TextEditor\TextEditor.cpp(134,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gerib\source\repos\TextEditor\TextEditor.cpp(189,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gerib\source\repos\TextEditor\TextEditor.cpp(192,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gerib\source\repos\TextEditor\TextEditor.cpp(193,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gerib\source\repos\TextEditor\TextEditor.cpp(224,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gerib\source\repos\TextEditor\TextEditor.cpp(228,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gerib\source\repos\TextEditor\TextEditor.cpp(319,34): warning C4566: character represented by universal-character-name '\uFF08' cannot be represented in the current code page (1252)
+C:\Users\gerib\source\repos\TextEditor\TextEditor.cpp(319,34): warning C4566: character represented by universal-character-name '\uFF09' cannot be represented in the current code page (1252)
+  TextEditor.vcxproj -> C:\Users\gerib\source\repos\TextEditor\x64\Debug\TextEditor.exe
